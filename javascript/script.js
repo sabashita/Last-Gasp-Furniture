@@ -79,6 +79,8 @@ function cleanPrice(){
     document.getElementById("shipping").textContent = "";
     document.getElementById("tax").textContent = "";
     document.getElementById("subtotal").textContent = "";
+        document.getElementById("shippintTitle").textContent = "";
+
 }
 
 function getFurniture() {
